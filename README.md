@@ -1,3 +1,4 @@
 # myTeam
 member
 - kankrai
+- palm 
